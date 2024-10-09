@@ -12,22 +12,22 @@ const Footer = () => {
       <div>
         <h1 className="text-2xl md:text-6xl font-bold">Contact</h1>
         <h3 className="text-sm md:text-2xl font-normal">
-          Feel Free To reach out!
+        N'hésitez pas à me contacter !!
         </h3>
       </div>
 
       <ul className="text-sm md:text-xl">
         <li className="flex gap-1 items-center">
           <MdOutlineEmail size={20} />
-          myemail@gmail.com
+          samarlahouar8@gmail.com
         </li>
         <li className="flex gap-1 items-center">
           <CiLinkedin />
-          linkdlin.com/username
+          samar lahouar
         </li>
         <li className="flex gap-1 items-center">
           <FaGithub />
-          github.com/username
+          samar lahouar 
         </li>
       </ul>
     </div>
